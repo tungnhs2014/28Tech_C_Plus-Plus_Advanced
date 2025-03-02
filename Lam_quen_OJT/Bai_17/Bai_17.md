@@ -5,8 +5,7 @@ Nhập vào chiều dài và chiều rộng của hình chữ nhật (HCN), bạ
 - **Chu vi** của HCN.  
 - **Diện tích** của HCN.  
 
-**Chú ý:**  
-- Tích diện tích có thể bị tràn kiểu dữ liệu `int`.  
+**Chú ý:** Tích diện tích có thể bị tràn kiểu dữ liệu `int`.  
 
 ---
 

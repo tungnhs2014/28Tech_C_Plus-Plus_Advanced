@@ -1,4 +1,4 @@
-# Bài 3: Chu vi và điện tích hình tròn
+# Bài 4: Chu vi và điện tích hình tròn
 
 ## Mô tả bài toán  
 Cho bán kính R của hình tròn. Yêu cầu tính chu vi và diện tích của hình tròn đó. Lấy PI = 3.14. Công thức tính `chu vi = 2 * PI * R, diện tích = PI * R * R`

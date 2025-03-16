@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 
 using namespace std;
 
@@ -16,7 +15,7 @@ int main(int argc, char const *argv[])
            cout << (n / 2) * b; 
         }
         else {
-            cout << ((n -1) / 2) *b + a; 
+            cout << (n / 2) *b + a; 
         }
     }
 

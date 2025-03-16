@@ -1,4 +1,4 @@
-# Bài 23: Doremon leo cầu thang
+# Bài 24: Đường đi ngắn nhất
 
 ## Mô tả bài toán  
 Hôm nay Patrick chờ đợi một chuyến thăm từ người bạn SpPal của mình. Để chuẩn bị cho chuyến thăm, 

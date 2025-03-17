@@ -1,4 +1,4 @@
-# Bài 16: Kí tự kết tiếp
+# Bài 16: Kí tự kế tiếp
 
 ## Mô tả bài toán  
 Cho kí tự chữ cái in hoa hoặc in thường, in ra kí tự tiếp sau nó trong bảng chữ cái ở dạng in thường, tức là kí tự nhập vào ở dạng in hoa hay in thường thì bạn đều in ra kí tự kế tiếp nó nhưng ở dạng in thường. Coi kí tự kế tiếp của nó chữ Z là A.

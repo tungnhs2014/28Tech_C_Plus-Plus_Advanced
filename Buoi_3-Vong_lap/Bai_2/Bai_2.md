@@ -1,4 +1,4 @@
-# Bài 1: Tổng bình phương
+# Bài 2: Tổng bình phương
 
 ## Mô tả bài toán
 Tính tổng S(n) = 1^2 + 2^2 + 3^2 + ... + n^2.

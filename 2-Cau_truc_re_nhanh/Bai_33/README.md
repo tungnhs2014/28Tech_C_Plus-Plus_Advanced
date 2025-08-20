@@ -19,9 +19,34 @@ In "YES" nếu Polycarp có thể phân phối tất cả n xu giữa các chị
 
 ### Sample Input 0
 ```
-5 1 3 4
+5 3 2 8
 ```
 ### Sample Output 0
 ```
-800
+YES
 ```
+### Sample Input 1
+```
+100 101 102 105
+```
+### Sample Output 1
+```
+YES
+```
+### Sample Input 2
+```
+3 2 1 100000000
+```
+### Sample Output 2
+```
+NO
+```
+### Sample Input 4
+```
+10 20 15 14
+```
+### Sample Output 4
+```
+NO
+```
+

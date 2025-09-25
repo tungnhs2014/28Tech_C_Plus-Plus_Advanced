@@ -1,0 +1,23 @@
+# Bài 23. Kiểm tra mảng toàn chẵn
+
+Cho một mảng số nguyên A gồm N phần tử, hãy kiểm tra xem mảng có phải toàn số chẵn hay không?
+
+## Input Format
+Dòng đầu tiên là số nguyên dương N; Dòng thứ 2 là N số nguyên trong mảng được viết cách nhau một dấu cách.
+
+## Constraints
+1 ≤ n ≤ 1000; 1 ≤ A[i] ≤ 10^6
+
+## Output Format
+In ra YES nếu mảng toàn số chẵn, ngược lại in ra NO.
+
+## Sample Input 0
+```
+5
+2 4 6 8 10
+```
+
+## Sample Output 0
+```
+YES
+```
